@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/jaskier.png",
+    "name": "Jasquier",
+    "description": "Jasquier est un homme jeune, qui dégage beaucoup de charme, un bavard intarissable, un bouffon et un paresseux. C'est aussi un coureur de jupons invétéré qui a le chic pour s'attirer toutes sortes d'ennuis. Il est tout autant attiré par un bon concours de boisson qu'une partie de poker de dés",
+    "region": "redania"
+  },
+  {
+    "id": 2,
+    "image": "./assets/",
+    "name": "Nivellen",
+    "description": "Nivellen était un homme maudit qui vivait en Redania, dans un manoir isolé dans les bois près de Murivel. Dans la région on l'appelait le Dégénéré ou le Claqueur et on en faisait un croquemitaine pour effrayer les enfants",
+    "region": "redania"
+  },
+
+  {
+    "id": 3,
+    "image": "./assets/",
+    "name": "Filippa Eilhart",
+    "description": "Filippa Eilhart était un membre éminent du Conseil des magiciens, la conseillère de Vizimir II le Juste puis celle de Hedwige de Malleore ainsi que la fondatrice de la Loge des Magiciennes. Elle était très douée. D'après les rumeurs, elle était l'une des rares à maîtriser l'art de la polymorphie. Elle semblait avoir trente ans. Elle en avait vraisemblablement pas moins de trois cents",
+    "region": "redania"
+  },
+  {
+    "id": 4,
+    "image": "./assets/",
+    "name": "Shani",
+    "description": "Shani est une vieille connaissance d'autrefois de Geralt, dans des circonstances plutôt dramatiques. Un tempérament de braise qui a le coeur sur la main. Elle se consacre corps et âme à sa passion, les sciences médicales et aide de son mieux les infirmières de l'Hôpital St Lebioda dans le quartier du temple de Wyzima. Elle étudie plus particulièrement la Catriona et la Peste",
+    "region": "redania"
+  },
+  {
+    "id": 5,
+    "image": "./assets/",
+    "name": "Ciri",
+    "description": "Alors qu'elle n'était encore qu'une enfant, les parents de Ciri disparurent dans une tempête en mer et furent présumés morts. Elle partagea sa jeunesse entre Cintra et les Îles Skellige, confiée aux soins de sa grand-mère. Elle rencontra Geralt pour la première fois quand elle se perdit dans la forêt de Brokilone alors qu'elle devait rencontrer un prétendant à Nastrog. Elle fut sauvée par Geralt et la dryade Braenn. Ciri peut déplacer des choses, déplacer des personnes et ouvrir des portails. Sans oublier qu'elle peut faire pousser des fleurs avec son sang. Elle est aussi très douée pour détruire des choses",
+    "region": "cintra"
+  },
+  {
+    "id": 6,
+    "image": "./assets/",
+    "name": "Pavetta",
+    "description": "Pavetta est la petite fille de la Reine Adalia, la fille de Calanthe et du Roi Roegner d'Ebbing. Elle est une Source. Pavetta était liée depuis sa naissance au destin par le droit de surprise, à Duny qui avait sauvé la vie de son père. Ciri, l'enfant qu'elle portait, était marqué par le destin et devait être la récompense de Geralt pour avoir sauvé la vie de Duny",
+    "region": "cintra"
+  },
+  {
+    "id": 7,
+    "image": "./assets/",
+    "name": "Sac-à-souris",
+    "description": "Sac-à-souris est un druide de Skellige. Il fut le conseiller du roi Bran de Skellige et de la reine Calanthe de Cintra.",
+    "region": "cintra"
+  },
+  {
+    "id": 8,
+    "image": "./assets/",
+    "name": "Angoulême",
+    "description": "Angoulême vient d'une famille riche de Cintra mais, étant une enfant bâtarde, elle fut envoyée vivre loin de chez elle. Elle décida de quitter pour de bon cette famille qui lui semblait étrangère et partit vivre sa vie. Elle rejoint plus tard le gang des Rossignols. Elle le quitta après avoir volé le chef de la bande",
+    "region": "cintra"
+  },
+  {
+    "id": 9,
+    "image": "./assets/",
+    "name": "Fringilla Vigo",
+    "description": "Fringilla Vigo est une magicienne Nilfgaardienne, membre de la Loge des Magiciennes avec sa compatriote, Assire var Anahid. Elle est aussi la cousine au second degré de Anna Henrietta de Toussaint. Quand Geralt de Riv et son équipe atteignirent Toussaint, Fringilla s'embarqua dans une relation romantique avec Geralt et fit tout ce qui était en son pouvoir pour qu'il reste au château le plus longtemps possible. Bien que le sorceleur ait développé des sentiments pour elle, il n'a jamais cessé de penser à Yennefer",
+    "region": "toussaint"
+  },
+  {
+    "id": 10,
+    "image": "./assets/",
+    "name": "Artorius Vigo",
+    "description": "Artorius Vigo est un magicien nilfgaardien et est un maître des arcanes magiques ainsi qu'un grand spécialiste de l'illusion. Il est l'oncle de Fringilla Vigo et ce fut lui qui lui fait connaître les mystère de la magie",
+    "region": "toussaint"
+  },
+  {
+    "id": 11,
+    "image": "./assets/",
+    "name": "Guillaume de Launfal",
+    "description": "Guillaume de Launfal était l'exemple même du chevalier errant. Un emblème pour Toussaint. Lorsque Geralt fit la connaissance du jeune homme, celui-ci joutait vaillamment avec un moulin à vent… qui, il faut l'admettre, cachait un féroce géant",
+    "region": "toussaint"
+  },
+  {
+    "id": 12,
+    "image": "./assets/",
+    "name": "Anna Henrietta",
+    "description": "Anna Henrietta était la princesse de la principauté de Toussaint. Elle était surnommée Anarietta par ses proches. Elle est la cousine d'Emhyr var Emreis l'Empereur de Nilfgaard. Elle eut pour époux le prince Rajmund, un homme débauché et autoritaire fort détestable. A la mort de ce dernier en 1265, Anna Henrietta prit les rênes du pouvoir dans la principauté de Toussaint à la grande satisfaction de ses sujets",
+    "region": "toussaint"
+  },
+  {
+    "id": 13,
+    "image": "./assets/",
+    "name": "Sylvia Anna",
+    "description": "Sylvia Anna, ou Syanna pour les intimes, est la sœur d'Anna Henrietta. Elle serait affecté par la Malédiction du Soleil Noir,  la destinée de Syanna ne fut pas aussi heureuse que ses nobles origines auraient pu le laisser espérer. De bien mauvais auspices ternirent en effet le jour de sa naissance: venue au monde pendant une éclipse, elle fut désignée comme victime de la malédiction du soleil noir. Geralt doutait de l'existence de cette prétendue malédiction, mais la croyance populaire voulait que Syanna ait le coeur empli de cruauté et soit animée par un perpétuel désir de meurtre",
+    "region": "toussaint"
+  },
+  {
+    "id": 14,
+    "image": "./assets/",
+    "name": "Fringilla Vigo",
+    "description": "Fringilla Vigo est une magicienne et illusionniste Nilfgaardienne Elle est également une membre de la Loge des Magiciennes. Elle a toujours été considérée comme une originale et une rebelle",
+    "region": "nilfgaard"
+  },
+  {
+    "id": 15,
+    "image": "./assets/",
+    "name": "Assire var Anahid",
+    "description": "Assire var Anahid est une magicienne et la grand-tante de Cahir. Elle faisait partie des fondatrices de la Loge des Magiciennes et en demeura membre ainsi que sa compatriote Fringilla Vigo",
+    "region": "nilfgaard"
+  },
+  {
+    "id": 16,
+    "image": "./assets/",
+    "name": "Fergus var Emreis",
+    "description": "Fergus var Emreis était l'empereur de Nilfgaard. Son fils, Emhyr var Emreis, lui a succédé",
+    "region": "nilfgaard"
+  },
+  {
+    "id": 17,
+    "image": "./assets/",
+    "name": "Emhyr var Emreis",
+    "description": "Emhyr var Emreis était le fils de Fergus var Emreis, empereur de Nilfgaard. Longtemps célibataire, il épousa officiellement Cirilla, princesse de Cintra, après la paix de Cintra qui scelle la fin de la deuxième guerre contre les royaumes du Nord",
+    "region": "nilfgaard"
+  },
+  {
+    "id": 18,
+    "image": "./assets/",
+    "name": "Triss Merigold",
+    "description": "Triss Merigold est une magicienne, originaire de Maribor. Elle siégeait au Conseil Royal de Foltest de Temeria aux côtés de Fercart de Cidaris et de Keira Metz avant d'être contrainte d'émigrer, le roi ayant chassé toutes les magiciennes de Temeria. C'est une membre de la Loge des Magiciennes",
+    "region": "temeria"
+  },
+  {
+    "id": 19,
+    "image": "./assets/",
+    "name": "Keira Metz",
+    "description": "Keira Metz est une magicienne originaire de Carreras. Elle siégeait au Conseil Royal de Foltest de Temeria aux côtés de Fercart de Cidaris et de Triss Merigold avant d'être contrainte d'émigrer, le roi ayant chassé toutes les magiciennes de Temeria. C'est aussi une membre de la Loge des Magiciennes",
+    "region": "temeria"
+  },
+  {
+    "id": 20,
+    "image": "./assets/",
+    "name": "Ostrit",
+    "description": "Dégoûté par la relation incestueuse entre le roi et sa soeur, ainsi que par la grossesse de celle-ci, Ostrit les maudit. En effet, la mère et la fillette périrent durant le travail et furent enterrées. Plusieurs années plus tard, La malédiction d'Ostrit se réalisa et la jeune fille se releva sous l'apparence d'une strige, hantant les rues de la Vieille Wyzima. Ostrit fut tué par le monstre quand Geralt de Riv l'utilisa comme un appât afin d'attirer la strige hors de sa crypte",
+    "region": "temeria"
+  },
+  {
+    "id": 21,
+    "image": "./assets/",
+    "name": "Ravanen Kimbolt",
+    "description": "Ravanen Kimbolt est un baron temerien. Il est l'un des principaux prétendants au trône de Temeria après la mort de Foltest. Kimbolt est un magnat de l'ancienne école. Pour lui, le monde se divise en deux catégories: la noblesse et les gens du peuple. Il se préoccupe peu de ces derniers, à moins de leur trouver une utilité temporaire. Fier et bourru, il considère que le pouvoir politique lui revient de droit de par sa naissance et il n'a que peu de patience pour ceux qui se mettent en travers de son chemin",
+    "region": "temeria"
+  },
+  {
+    "id": 22,
+    "image": "./assets/",
+    "name": "Aideen",
+    "description": "Aideen était une princesse de Kaedwen, l'héritière illégitime des rois d'Ard Carraigh, qui s'était enfuie de Kaedwen",
+    "region": "kaedwen"
+  },
+  {
+    "id": 23,
+    "image": "./assets/",
+    "name": "Caitlyn de Kaedwen",
+    "description": "Caitlyn de Kaedwen épousa Vestibor le Fier, roi de Redania qui lui donna un fils, Radowid II le Marin",
+    "region": "kaedwen"
+  },
+  {
+    "id": 24,
+    "image": "./assets/",
+    "name": "Deirdre de Kaedwen",
+    "description": "Deirdre était la fille de Benda, roi de Kaedwen",
+    "region": "kaedwen"
+  }
+]
