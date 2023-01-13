@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Nostrix",
+      "rarity": "Uncommon",
+      "image": "assets/Nostrix.png"
+    },
+    {
+      "id": 2,
+      "name": "Blowball",
+      "rarity": "Common",
+      "image": "assets/Blowball.png"
+    },
+    {
+      "id": 3,
+      "name": "Allspice",
+      "rarity": "Rare",
+      "image": "assets/Allspice.png"
+    },
+    {
+      "id": 4,
+      "name": "Green moss",
+      "rarity": "Common",
+      "image": "assets/Greenmoss.png"
+    }
+]
