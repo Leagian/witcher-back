@@ -3,24 +3,24 @@
       "id": 1,
       "name": "Nostrix",
       "rarity": "Uncommon",
-      "image": "assets/Nostrix.png"
+      "image": "http://localhost:4242/Nostrix.png"
     },
     {
       "id": 2,
       "name": "Blowball",
       "rarity": "Common",
-      "image": "assets/Blowball.png"
+      "image": "http://localhost:4242/Blowball.png"
     },
     {
       "id": 3,
       "name": "Allspice",
       "rarity": "Rare",
-      "image": "assets/Allspice.png"
+      "image": "http://localhost:4242/Allspice.png"
     },
     {
       "id": 4,
       "name": "Green moss",
       "rarity": "Common",
-      "image": "assets/Greenmoss.png"
+      "image": "http://localhost:4242/Greenmoss.png"
     }
 ]
