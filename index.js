@@ -9,6 +9,7 @@ const app = express();
 
 const dataingredients = require("./ingredients.json");
 const datapotions = require("./potions.json");
+const data = require("./charactersWitcher.json");
 
 app.use(morgan("tiny"));
 app.use(cors("*"));
@@ -24,6 +25,11 @@ app.get("/ingredients", (req, res) => {
 app.get("/potions", (req, res) => {
   console.log("une nouvelle requête est arrivée dans l’API pour les potions !  ");
   res.json( datapotions );
+}); 
+
+app.get("/", (req, res) => {
+  console.log("une nouvelle requête est arrivée dans l’API !  ");
+  res.json(data);
 });
 
 app.listen(serverPort, () => console.log("http://localhost:4242"));
