@@ -1,0 +1,18 @@
+ [
+    {
+      "id": 1,
+      "potionname": "Wraith decoction",
+      "toxicity": "Severe",
+      "duration": "30 minutes",
+      "image": "http://localhost:4242/WraithDecoction.png",
+      "ingredients": "Nostrix, Blowball"
+    },
+    {
+      "id": 2,
+      "potionname": "Ekhidna Decoction",
+      "toxicity": "Mild",
+      "duration": "1 Hour",
+      "image": "http://localhost:4242/SuccubusDecoction.png",
+      "ingredients": "Allspice, Greenmoss"
+    }
+  ]
