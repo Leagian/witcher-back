@@ -1,18 +1,48 @@
  [
     {
       "id": 1,
-      "potionname": "Wraith decoction",
+      "potionname": "Décoction de Spectre",
       "toxicity": "Severe",
       "duration": "30 minutes",
       "image": "http://localhost:4242/WraithDecoction.png",
-      "ingredients": "Nostrix, Blowball"
+      "ingredients": "Nostrix, Blowball",
+      "oftenused": "Spectre"
     },
     {
       "id": 2,
-      "potionname": "Ekhidna Decoction",
-      "toxicity": "Mild",
-      "duration": "1 Hour",
+      "potionname": "Décoction de Succube",
+      "toxicity": "Moyenne",
+      "duration": "1 heure",
       "image": "http://localhost:4242/SuccubusDecoction.png",
-      "ingredients": "Allspice, Greenmoss"
+      "ingredients": "Allspice, Greenmoss",
+      "oftenused": "Succube"
+
+    },
+    {
+      "id": 3,
+      "potionname": "Décoction de Leshen",
+      "toxicity": "Moyenne",
+      "duration": "1 heure",
+      "image": "http://localhost:4242/LeshenDecoction.png",
+      "ingredients": "Moleyarrow, Celandine",
+      "oftenused": "Leshen"
+    },
+    {
+      "id": 4,
+      "potionname": "Décoction de Ulfhedinn",
+      "toxicity": "Severe",
+      "duration": "2 heures",
+      "image": "http://localhost:4242/UlfhedinnDecoction.png",
+      "ingredients": "Hop Umbels, Beggartick Blossom",
+      "oftenused": "Ulfhedinn"
+    },
+    {
+      "id": 5,
+      "potionname": "Décoction de Wyvern",
+      "toxicity": "Lègere",
+      "duration": "1 heure",
+      "image": "http://localhost:4242/WyvernDecoction.png",
+      "ingredients": "Pringrape, Blue lotus",
+      "oftenused": "Wyvern"
     }
   ]
