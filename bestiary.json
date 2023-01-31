@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "bestiaryname": "Spectre",
+        "description": "Parfois, les Sorceleurs doivent faire reposer les spectres qui hantent les vivants. Les spectres apparaissent près des cimetières ou dans les maisons qu'ils habitaient pendant leur vie. Ils n'ont généralement pas de souvenirs et sont strictement guidés par la haine envers les vivants.",
+        "image": "http://localhost:4242/wraith2.png"
+    },
+    {
+        "id": 2,
+        "bestiaryname": "Succube",
+        "description": "Une succube est une créature séduisante qui apparaît sous forme d'un humain très attirant, considéré comme un démon, ciblant des hommes/femmes matures pour drainer leur énergie par des rencontres physiques ou oniriques, entraînant souvent l'épuisement ou la mort de la victime.",
+        "image": "http://localhost:4242/succubus.png"
+    },
+    {
+        "id": 3,
+        "bestiaryname": "Leshen",
+        "description": "Les Leshens habitent dans des forêts denses et primitives. Ce sont des créatures territoriales qui chassent avec discrétion et astuce. Ils utilisent leur magie innée pour contrôler les plantes et les animaux de leur territoire, rendant la chasse difficile.",
+        "image": "http://localhost:4242/leshen.png"
+    },
+    {
+        "id": 4,
+        "bestiaryname": "Ulfhedinn",
+        "description": "Les Ulfhedinn sont une race de loup-garou principalement trouvés à Skellige. Les conditions difficiles et désolées des îles peuvent expliquer pourquoi ils chassent principalement les hommes et sont plus forts que leurs frères continentaux. Les Ulfhedinn plus âgés et particulièrement dangereux sont appelés Vorefs.",
+        "image": "http://localhost:4242/ulfhedinn.png"
+    },
+    {
+        "id": 5,
+        "bestiaryname": "Wyvern",
+        "description": "Les wyverns sont souvent confondus avec des dragons et, bien qu'ils soient beaucoup plus petits que leurs congénères plus connus et ne respirent pas de feu, ils sont tout aussi dangereux. Les wyverns royaux, appelés ainsi en raison de leur caractère  difficile et extrêmement mortel, sont particulièrement craints.",
+        "image": "http://localhost:4242/wyvern.png"
+    }
+
+]

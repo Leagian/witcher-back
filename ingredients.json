@@ -2,25 +2,81 @@
     {
       "id": 1,
       "name": "Nostrix",
-      "rarity": "Uncommon",
-      "image": "http://localhost:4242/Nostrix.png"
+      "rarity": "peu commun",
+      "image": "http://localhost:4242/Nostrix.png",
+      "location": "Novigrad",
+      "usedFor" : "décoction de spectre"
     },
     {
       "id": 2,
       "name": "Blowball",
-      "rarity": "Common",
-      "image": "http://localhost:4242/Blowball.png"
+      "rarity": "commun",
+      "image": "http://localhost:4242/Blowball.png",
+      "location": "Novigrad",
+      "usedFor" : "décoction de spectre"
     },
     {
       "id": 3,
       "name": "Allspice",
-      "rarity": "Rare",
-      "image": "http://localhost:4242/Allspice.png"
+      "rarity": "rare",
+      "image": "http://localhost:4242/Allspice.png",
+      "location": "Beauclair",
+      "usedFor" : "décoction de succube"
     },
     {
       "id": 4,
       "name": "Greenmoss",
-      "rarity": "Common",
-      "image": "http://localhost:4242/Greenmoss.png"
+      "rarity": "commun",
+      "image": "http://localhost:4242/Greenmoss.png",
+      "location": "Beauclair",
+      "usedFor" : "décoction de succube"
+    },
+    {
+      "id": 5,
+      "name": "Moleyarrow",
+      "rarity": "commun",
+      "image": "http://localhost:4242/moleyarrow.png",
+      "location": "Nilfgaard",
+      "usedFor" : "décoction de leshen"
+    },
+    {
+      "id": 6,
+      "name": "Celandine",
+      "rarity": "rare",
+      "image": "http://localhost:4242/celandine.png",
+      "location": "Nilfgaard",
+      "usedFor" : "décoction de leshen"
+    },
+    {
+      "id": 7,
+      "name": "Beggartick Blossom",
+      "rarity": "très rare",
+      "image": "http://localhost:4242/beggartick.png",
+      "location": "KaerMorhen",
+      "usedFor" : "décoction de ulfhedinn"
+    },
+    {
+      "id": 8,
+      "name": "Hop Umbels",
+      "rarity": "peu commun",
+      "image": "http://localhost:4242/hopumbels.png",
+      "location": "KaerMorhen",
+      "usedFor" : "décoction de ulfhedinn"
+    },
+    {
+      "id": 9,
+      "name": "Pringrape",
+      "rarity": "rare",
+      "image": "http://localhost:4242/pringrape.png",
+      "location": "Vizima",
+      "usedFor" : "décoction de wyvern"
+    },
+    {
+      "id": 10,
+      "name": "Blue lotus",
+      "rarity": "commun",
+      "image": "http://localhost:4242/bluelotus.png",
+      "location": "Vizima",
+      "usedFor" : "décoction de wyvern"
     }
 ]
