@@ -20,13 +20,13 @@
     {
         "id": 4,
         "bestiaryname": "Ulfhedinn",
-        "description": "Les Ulfhedinn sont une race de loup-garou principalement trouvés à Skellige. Les conditions difficiles et désolées des îles peuvent expliquer pourquoi ils chassent principalement les hommes et sont plus forts que leurs frères continentaux. Les Ulfhedinn plus âgés et particulièrement dangereux sont appelés Vorefs.",
+        "description": "Les Ulfhedinn sont une race de loup-garou trouvés à Skellige. Les conditions difficiles des îles peuvent expliquer pourquoi ils chassent principalement les hommes et sont plus forts que leurs frères continentaux. Les Ulfhedinn plus âgés et particulièrement dangereux sont appelés Vorefs.",
         "image": "http://localhost:4242/ulfhedinn.png"
     },
     {
         "id": 5,
         "bestiaryname": "Wyvern",
-        "description": "Les wyverns sont souvent confondus avec des dragons et, bien qu'ils soient beaucoup plus petits que leurs congénères plus connus et ne respirent pas de feu, ils sont tout aussi dangereux. Les wyverns royaux, appelés ainsi en raison de leur caractère  difficile et extrêmement mortel, sont particulièrement craints.",
+        "description": "Les wyverns sont souvent confondus avec des dragons et, bien qu'ils soient beaucoup plus petits que leurs congénères plus connus et ne respirent pas de feu, ils sont tout aussi dangereux. Les wyverns royaux, appelés ainsi en raison de leur caractère  difficile et mortel, sont particulièrement craints.",
         "image": "http://localhost:4242/wyvern.png"
     }
 
